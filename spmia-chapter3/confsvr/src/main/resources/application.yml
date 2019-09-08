@@ -19,10 +19,10 @@ spring:
         # encrypt.enabled should moved to bootstrap.yml
         # encrypt.enabled: false
         git:
-          uri: https://github.com/klimtever/config-repo/
+          uri: https://github.com/zest1333/msa/config-repo/
           searchPaths: licensingservice,organizationservice
-          username: native-cloud-apps
-          password: 0ffended
+          username: zest133
+          password: shin6182
 
 
 ####

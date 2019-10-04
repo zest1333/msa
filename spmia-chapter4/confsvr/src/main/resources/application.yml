@@ -20,10 +20,10 @@ spring:
       server:
         encrypt.enabled: false
         git:
-          uri: https://github.com/klimtever/config-repo/
-          searchPaths: licensingservice,organizationservice
-          username: native-cloud-apps
-          password: 0ffended
+          uri: https://github.com/zest1333/msa.git/
+          searchPaths: /config-repo/licensingservice,/config-repo/organizationservice
+          username: zest133@gmail.com
+          password: shin6182
 
 
 ####
